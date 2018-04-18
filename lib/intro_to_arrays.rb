@@ -17,11 +17,5 @@ def third_element(array)
 end
 
 def last_element(array)
-  return array[array.count -1]
+  return array[array.count - 1]
 end
-
-
-
-
-
-
